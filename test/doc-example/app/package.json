@@ -24,7 +24,7 @@
     "@aurelia/http-server": "0.7.0",
     "htmlhint": "^0.11.0",
     "rimraf": "^3.0.0",
-    "webpack": "^4.41.4",
+    "webpack": "^5.104.1",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1",
     "html-webpack-plugin": "^3.2.0",
